@@ -1,0 +1,11 @@
+body {
+    background-color: #c0392b;
+    font-family: sans-serif;
+}
+
+#results {
+    margin: 0 auto;
+    display: block;
+    width: 960px;
+    text-align: center;
+}
